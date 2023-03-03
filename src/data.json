@@ -1,0 +1,42 @@
+{
+  "orderStats": [
+    {
+      "label": "Revenue",
+      "value": 2.047,
+      
+      "icon": "fa fa-arrow-circle-up",
+      "color" : "orange",
+      "icons":"fa fa-arrow-down",
+      "colors" :"red"
+    },
+    {
+      "label": "Orders",
+      "value": 356,
+     
+      "icon": "fa fa-shopping-cart",
+      "color" : "green",
+      "icons":"fa fa-arrow-up",
+      "colors" :"green"
+
+    },
+    {
+      "label": "Dine in",
+      "value": 220,
+     
+      "icon": "fa fa-cutlery",
+      "color" : "red",
+      "icons":"fa fa-arrow-up",
+      "colors" :"green"
+
+    },
+    {
+      "label": "Take away",
+      "value": 135,
+      
+      "icon": "fa fa-trash",
+      "color" : "green",
+      "icons":"fa fa-arrow-up",
+      "colors" :"red"
+    }
+  ]
+}
